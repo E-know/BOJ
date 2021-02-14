@@ -5,3 +5,4 @@
 <hr/>
 
 ## 개별 문제 해설
++ [BOJ 12865/다이나믹 프로그래밍](https://slowsure.tistory.com/111)
